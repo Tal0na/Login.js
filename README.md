@@ -1,1 +1,1 @@
-uma pagina simple de login
+varias tipode de altenticação com javaScript
