@@ -1,1 +1,1 @@
-varias tipode de altenticação com javaScript
+Varios tipo de de altenticação com javaScript
